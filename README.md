@@ -45,11 +45,3 @@ Role of default routes & redistribution in reachability
 NAT ACL design — avoid including external/ISP subnets
 
 Using verification commands effectively in troubleshooting
-
-🔹 Repository Structure
-RIP-OSPF-Redistribution-Lab/
-│── README.md        # Project overview (this file)
-│── report.md        # Full detailed report with configs & explanations
-│── configs/         # Per-router configurations (R1.txt, R2.txt, ...)
-│── screenshots/     # Verification outputs (OSPF DB, routing table, pings)
-│── topology.png     # Network topology diagram
