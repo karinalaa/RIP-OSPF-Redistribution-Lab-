@@ -1,4 +1,5 @@
 📘 RIP–OSPF Redistribution & ISP NAT Lab
+
 🔹 Overview
 
 This lab demonstrates integrating RIP v2 and OSPF Multi-Area routing protocols, configuring special OSPF areas (Stub, Totally Stub, NSSA), using redistribution, and providing ISP connectivity via NAT.
